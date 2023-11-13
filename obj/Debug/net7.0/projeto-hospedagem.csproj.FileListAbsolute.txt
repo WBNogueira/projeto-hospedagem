@@ -1,0 +1,14 @@
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\bin\Debug\net7.0\projeto-hospedagem.exe
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\bin\Debug\net7.0\projeto-hospedagem.deps.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\bin\Debug\net7.0\projeto-hospedagem.runtimeconfig.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\bin\Debug\net7.0\projeto-hospedagem.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\bin\Debug\net7.0\projeto-hospedagem.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\projeto-hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\projeto-hospedagem.AssemblyInfoInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\projeto-hospedagem.AssemblyInfo.cs
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\projeto-hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\projeto-hospedagem.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\refint\projeto-hospedagem.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\projeto-hospedagem.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\projeto-hospedagem.genruntimeconfig.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\projeto-hospedagem\obj\Debug\net7.0\ref\projeto-hospedagem.dll
